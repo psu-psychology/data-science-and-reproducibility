@@ -26,6 +26,7 @@ title: "Resources"
     - Authorea <http://www.authorea.com>
 - Experimental Design Assistant for planning animal studies <https://eda.nc3rs.org.uk/>
 - p-hacker Shiny app <http://shinyapps.org/apps/p-hacker/>
+- [Power ANalysis for GEneral Anova designs](https://jakewestfall.shinyapps.io/pangea/) Shiny app
 - [Open Stats Lab](https://sites.trinity.edu/osl). Use data published with psychology papers to teach statistics.
 - [DataCamp](http://datacamp.com)
 - [Software Carpentry](https://software-carpentry.org/)
