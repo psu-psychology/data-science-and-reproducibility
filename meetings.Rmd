@@ -1,0 +1,19 @@
+---
+title: "Meetings"
+---
+## 2017-01-12, 1:30-2:30p, 127 Moore
+
+### Agenda
+
+- Why are we here?
+    + Build/strengthen community around data science (Data $\Psi$-ence?)
+    + Build/strengthen community around [reproducibility, transparency, open science](https://doi.org/10.1038/s41562-016-0021)
+- Needs
+- Meeting the needs
+    + Existing resources/initiatives
+        + Graduate classes
+        + Lab-centered expertise
+        + Area-centered initiatives
+        + Quantitative Committee
+        + Initiatives outside of Psychology
+    + New resources/initiatives
