@@ -8,6 +8,8 @@ title: "Resources"
     + [IRB template language for data sharing](https://github.com/psu-psychology/data-sharing-template)
 - [Big Data Social Science IGERT](http://bdss.psu.edu/)
 - [WeR User Group (HDFS)](http://sites.psu.edu/werclub/2016/10/09/the-goal-of-we-r-penn-state-r-users-group/)
+- Courses
+    + PSY 511 -- Transparent, Open, and Reproducible Research Practices in the Social and Behavioral Sciences (Spring 2017). [site](http://psu-psychology.github.io/psy-511-reproducible-research-spring-2017/).
 
 ## Books
 
@@ -26,8 +28,8 @@ title: "Resources"
 - p-hacker Shiny app <http://shinyapps.org/apps/p-hacker/>
 - [Open Stats Lab](https://sites.trinity.edu/osl). Use data published with psychology papers to teach statistics.
 - [DataCamp](http://datacamp.com)
-- Software Carpentry
-- Data Carpentry
+- [Software Carpentry](https://software-carpentry.org/)
+- [Data Carpentry](http://www.datacarpentry.org/)
 
 ## Selected peer-reviewed papers and commentaries
 
@@ -59,7 +61,7 @@ title: "Resources"
 - American Psychological Association (2015). Data Sharing: Principles and Considerations for Policy Development. Retrieved August 25, 2015, from <http://www.apa.org/science/leadership/bsa/data-sharing-report.aspx>
 - [PubPeer](https://pubpeer.com/)
 
-## Blogs & specific posts
+## Blogs
 
 - R bloggers <https://www.r-bloggers.com/>
 - Open science in practice. <https://inattentionalcoffee.wordpress.com/2017/01/03/open-science-in-practice/>
