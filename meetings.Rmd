@@ -5,6 +5,8 @@ title: "Meetings"
 
 ### Agenda
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N2zK3sAtr-4" frameborder="0" allowfullscreen></iframe>
+
 - Why are we here?
     + Build/strengthen community around data science (Data $\Psi$-ence?)
     + Build/strengthen community around [reproducibility, transparency, open science](https://doi.org/10.1038/s41562-016-0021)
