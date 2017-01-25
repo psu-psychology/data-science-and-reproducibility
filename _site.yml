@@ -1,6 +1,6 @@
 name: "Data Science @ PSU Psychology"
 navbar:
-  title: "Data Science in Psychology"
+  title: ""
   left:
     - text: "Home"
       href: index.html

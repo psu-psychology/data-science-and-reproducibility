@@ -10,4 +10,4 @@ This site is a home for data science and reproducibility-related initiatives and
 
 Please see the [resources](resources.html) link for information about published papers, organizations, and software tools. The [meetings](meetings.html) page has information about initiative-related get-togethers.
 
-A Google group has been created to foster discussion. Messages to the group may be sent to psu-psychology-data-science@googlegroups.com.
+A Google group has been created to foster discussion. Messages to the group may be sent to psu-psychology-data-science@googlegroups.com or click on the [Forum](forum.html) tab.
