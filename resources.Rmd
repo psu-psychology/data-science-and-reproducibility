@@ -19,6 +19,7 @@ title: "Resources"
 
 # Software, tools, training
 
+- Improving the Reproducibility of Our Research Practices. Association for Psychological Science six-part workshop. <https://www.psychologicalscience.org/publications/observer/obsonline/improving-reproducibility.html>
 - [Jupyter notebooks](http://jupyter.org)
 - [RStudio](http://rstudio.com)
 - LaTeX on the web
