@@ -10,6 +10,11 @@ title: "Resources"
 - [WeR User Group (HDFS)](http://sites.psu.edu/werclub/2016/10/09/the-goal-of-we-r-penn-state-r-users-group/)
 - Courses
     + PSY 511 -- Transparent, Open, and Reproducible Research Practices in the Social and Behavioral Sciences (Spring 2017). [site](http://psu-psychology.github.io/psy-511-reproducible-research-spring-2017/).
+    
+## Federal/Policy
+
+- Federal Policy for the Protection of Human Subjects. (2017, January 19). <https://www.federalregister.gov/documents/2017/01/19/2017-01058/federal-policy-for-the-protection-of-human-subjects>
+- Public Access to NSF-Funded Research Data for the Social, Behavioral, and Economic Sciences. (2016, May 17). National Science Foundation. <https://www.nsf.gov/sbe/reports/Public_Access_NSF_Workshop_Report_Final_Briefs.pdf>
 
 ## Books
 
